@@ -4,9 +4,11 @@ HackingNOKIAUDP
 
 ***Hacking ports udp nokia***
 
+* Acess: ```http://192.168.1.1/system.cgi?telnet```
 * Putty SSH
 * User: ```telecomadmin```
 * Pass: ```admintelecom```
+
 
 ##
 
