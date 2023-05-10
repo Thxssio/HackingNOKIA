@@ -11,17 +11,17 @@ Hacking ports udp nokia
 **COMANDO PARA ALTERAR A LIMITAÇÃO DE DISPOSITIVOS**
 ```cfgcli set InternetGatewayDevice.Services.X_CT-COM_MWBAND.TotalTerminalNumber 40```
 
-**ERAR O USUARIO E SENHA**
+**ALTERAR O USUARIO E SENHA**
 ```cfgcli -s InternetGatewayDevice.DeviceInfo.X_CT-COM_TeleComAccount.Password SENHA QUE VC QUISER```
 
 ```cfgcli -s InternetGatewayDevice.DeviceInfo.X_CT-COM_TeleComAccount.UserName  USUARIO QUE VC QUISER```
 
 
-ALTERAR A VERSÃO
-cfgcli -f -s InternetGatewayDevice.DeviceInfo.X_CT-COM_IPProtocolVersion.Mode 3
+**ALTERAR A VERSÃO**
+```cfgcli -f -s InternetGatewayDevice.DeviceInfo.X_CT-COM_IPProtocolVersion.Mode 3```
 
 
-ATIVAR O ACESSO REMOTO
-cfgcli -f -s InternetGatewayDevice.X_ASB_COM_PreConfig.X_ASB_COM_ExternalWebAccess true
+**ATIVAR O ACESSO REMOTO**
+```cfgcli -f -s InternetGatewayDevice.X_ASB_COM_PreConfig.X_ASB_COM_ExternalWebAccess true```
 
 
