@@ -5,8 +5,8 @@ HackingNOKIAUDP
 ***Hacking ports udp nokia***
 
 * Putty SSH
-* User: telecomadmin
-* Pass: admintelecom
+* User: ```telecomadmin```
+* Pass: ```admintelecom```
 
 ##
 
