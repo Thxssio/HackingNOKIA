@@ -6,6 +6,7 @@ HackingNOKIA
 
 * Acess: ```http://192.168.1.1/system.cgi?telnet```
 * Putty SSH
+* Port: ```23```
 * User: ```telecomadmin```
 * Pass: ```admintelecom```
 
