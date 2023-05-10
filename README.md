@@ -1,6 +1,8 @@
 # HackingNOKIAUDP
 Hacking ports udp nokia 
 
+* Putty SSH
+
 
 **COMANDO PARA SSID (OBSERVAÇÃO NO FINAL COLOCAR O NOME DO SEU PROVEDOR)**
 
